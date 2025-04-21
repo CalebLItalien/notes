@@ -1,0 +1,28 @@
+# What Makes the History of Software Hard - Michael Mahoney
+- "The models and tools that constitute software reflect the histories of the communities that created them and cannot be understood without knowledge of those histories ... all software, even the most current, is in that sense "legacy" software"
+- The popular historical narrative starts with the abacus, then follows a sequence of mechanical calculators to cnoverge on the ENIAC (U.S.), ACE (England), Zuse (Germany) and then to EDVAC
+	- Followed by mainframe era, followed by minicomputer and then microcomputer
+	- Writes it as if each followed one another, with the previous type dying out immediately
+		- Yet, IBM still gets significant income from mainframes
+		- Hides that PC has incorporated minicomptuer architectures and systems and hides embedded computing (microprocessors)
+- Narrative follows the story of generations of machines
+	- For software, focuses on systems software but not OS's well
+	- Nods to Unix and immediately moves to Microsoft
+	- To hear about the "data processing industry, since it is synonymous with IBM ... one must delve into the specialist literature, much of it still dominated by "pioneer accounts""
+	- "The software of the embedded systems underlying the world's technical, industrial, and financial infrastructure remains, of course, as invisible to the historical record as do the devices on which it runs"
+	- "It places all earlier calculating devices on one or more lines leading toward the electronic digital computer, as if they were somehow all headed in its direction, so too it pulls together the various contexts in which the devices were built, as if they constituted a growing demand for the invention of the comptuer and as if its appearance was a response to that demand"
+		- "it then becomes difficult to explain, for example, why IBM would have hesitated to enter the computer market in teh late 1940s, or why the National Institutes of Health had to launch a program to perrsuade biologists that computers could be of use to them"
+- "The main problem with the revolutionary or impact model is that it attributes agency to the computer as if it had a nature of its own"
+	- "The computer is a schema rather than a single device ... precisely because it can do anything, it can do nothing in and of itself. It does things only when we provide the programs that cause the universal machinet o emulate particular machines of our design."
+	- "The history of computing, especially of software, should strive to perserve human agency by structuring its narratives around people facing choices and making decisions"
+		- "Both the choices and decisions are constrained by the limits and possibilities of the state of the art at the time, and the state of the art embodies its history to that point"
+- "What I like to call the "communities of computing" had their own histories"
+- "The work of John von Neumann and Alan Turing opinted to the theoretical potential of the device"
+- "The emphasis has lain on what the computer could do rather than on how the computer was made to do it."
+- In the late 1960s the notion of a software crisis came to be, in mid-1980s ACM Forum on System Reliability and Risks to the Public
+	- See citation 17 for where this is established
+	- Created calls for a discipline of software engineering
+		- "At first, practitioners sought a solution in the computer and looked to the improvement of their tools and to more effective project management. A great deal of effort went into developing high-level programming langauges and diagnostic compilers."
+		- "At the same time, practitioners soguht to bring ... a "software factory", a programming environment that would leave the programmer little choice but to do it right"
+- "[The bulk of] errors were rooted in failures to understand what was required, to specify completely and consistently, [etc.] ... two-thirds of the errors uncovered during testing could be traced back to inadequate design"
+- HOPL III was developed after languages had begun to mature, II (somewhat) and I during the "heroic age" 

@@ -1,0 +1,12 @@
+- Lot of talk in Technical and Social Hsitroy book about Function Points, look into primary sources on use of this and efficacy
+	- Seems to be used in a lot of legal cases
+	- Also adopted for government contracts, see International Software Benchmark Standards Group (ISBSG) for data
+- Noticing a lot of employees of major research labs later went on to be business owners
+	- A lot of them seem to be former employees of big companies (like IBM)
+	- Also some academics
+- What is the International Telecommuncations Union (ITU)?
+- Tom McCabe's "cyclomatic complexity" metric from 1976
+- "The history of browsers and the so-called browser wars would make an interesting book" - Technical and Social History
+- IEEE Computer Society, the Association of Computing Machinery (ACM), the Association of Information Processing Professionals (AIPP), the Society for Information Management (SIM), the Association for Women in Computing, the Society for Technical Communication (STC)
+- "A U.S. financial crisis in 1907 showed a need for better data" - Technical and Social History
+- Microsoft tried to shut down open source work in the 90s and 2000's according to GPT

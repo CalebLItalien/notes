@@ -1,0 +1,232 @@
+# When Computers Were Human - David Alan Grier
+## Part 1: Astronomy and the Division of Labor 1682 - 1880
+### Chapter One: The First Anticipated Return: Halley's Comet 1758
+- Arrival of Halley's commet in 1758 gave rise to Halley trying to predict when it would return with new theories by Newton
+	- Problem was that it (they believed) was affected gravitationally by Saturn, Jupiter, and the Sun, which means it would require heavy computational work
+	- Alexis-Claud Clairaut tried to predict the date of the (predicted) 1758 return, and would require "the means of dividing the work among computing assistants"
+- Nicole-Reine Lepaute was a wealthy French bourgeoisie member who married and helped in calculations for Jean Andre Lepaute
+	- Only because she was in a "generous marraige" was she able to "exercise her scientific skill"
+- Lots of controversy over the nature of doing calculations at all, since it could be wrong
+- The calculation of the arrival of the comet ended up being somewhat off
+	- "[D'Alembert] denounced what he called "the spirit of calculation" and claimed that the computation was more "laborious than deep""
+	- Didn't account for Uranus and Neptune, which hadn't been discovered yet, as well as "many problems in the computation"
+	- "Clairaut's more important innovation [in 1757] was the division of mathematical labor, the recognition that a long computation could be split into pieces"
+- Lalande called Lepaute his "assistant without equal"
+	- Lalande would go on to be a professor of astronomy at the Paris Observatory
+	- Lepaute would spend 15 years as a computer for the Connaissance des Temps
+		- "It gave her an official standinga mong French scientists, a rare accomplishment for a woman"
+
+### Chapter Two: The Children of Adam Smith
+- Adam Smith believed "new discoveries would come from "more laborious and accurate calculations from these principles" [that Newton pioneered]"
+- British Admiralty created a computing office to produce a nautical almanac
+	- "Was the outgrowth of a competition between two methods for finding longitude, one computation and the other mechanical"
+		- Mechanical method was based on a clock set to the time at Greenwhich, which wasn't great because clocks of the day were prone to errors due to shipborn conditions
+		- Computational method involved using moon as a timekeepr, but required length calculations and a special table
+			- Required the solution to the three-body system of the earth, sun, and moon
+... Skipped
+
+### Chapter 12: The Best of Bad Times
+- 1930, National Research Council (we'll call NRC) not yet affected by Great Depression
+	- Had grown to influence during the 1920s
+	- Created by executive order 1918
+- Spring of 1930, NRC considers problem of human computers
+	- Establish committee to create bibliography of mathematical tables that existed
+	- Also reported on computational aids "Subcommittee on the Bibliography of Mathemtaical Tables and Other Aids to Computation" (MTAC)
+		- Thornton Fry of Bell Telephone Laboratories and Vannevar Bush of MIT (made differential analyzer) considered for chair of subcommittee
+- General Electric took an interest in the Differential Analyzer
+- Fry is offered the chair position, asks many questions on its nature and is worried about how manufacturers will respond to a survey of computational aids in production
+	- "He noted that there were many skilled computers who might contribute to such a National Research Council project." He could volunteer the services of Clara Froelich and the other staff at Bell Telephone Laboratories." (p. 179)
+- In the 1920s the NRC created the International Critical Tables of Numerical Data, Physics, Chemistry, and Technology
+	- Had to be funded by volunteers since the NRC didn't have funds, cost $177,000 mostly frmo the Carnegie Institution of Washington
+- Council withdraws the offer to Fry due to the economic depression
+- "Rather than being a hindrance to large computing projects, ... the economic collapse encouraged the formation of large computing staffs, since rising unemployment reduced teh cost of labor." (p. 181)
+- H.T. Davis produces Tables of Higher Mathematical Functions, a very expensive binding of mathematical tables
+	- "Davis started work on a second collection of table ... he paid his computers with money that he received from one of the New Deal agencies, the National Youth Administration." (p. 185)
+	- L.J. Comrie of the British Nautical Almanac Office finds a substantial amount of errors in the book
+- Elizabeth Wilson Webb was a human computer, "only woman among the First World War computers to find some kind of scientific role" (p. 189)
+- Wood of IBM is not a reliable witness
+- 3 body problem had data in a 660-page volume with 180 tables, "The Motion of the Moon" by Brown
+- Comrie switched from two skilled computers to tabulating machine and it was much quicker
+- IBM considered scientific computing only ever to be a niche application of their tabulating equipment
+- Bennett becomes the chair of the MTAC committee in 1935
+	- He was a consultant for the Aberdeen Proving Ground
+	- Aberdeen Proving Ground "had increased the the number of test firings on the artillery ranges for the first time in a decade." (p. 195)
+- Since WW1, ballistics research had 3 fields
+	- Tradiditional computation of trajectories, now called external ballistics
+	- Study of stresses and pressures within a gun, now called internal ballistics
+	- Physics of exploding shells, now called terminal ballistics
+	- Ballistics Reseasrch office "had sections devoted to each aspect of the research as well as a new computing office." (p. 195)
+
+### Chapter 13: Scientific Releaf
+- Malcolm Morrow created the largest human computing group of the 1930s
+	- Worked in the Works Projects Administration (originally W. Progress A.)
+- WPA employed many assistant statisticians, some were clers, prjoect managers, prepared questionnaires, few actually did data analysis
+	- Built parks and "bridges in New York City, sidewalks in Michigan, dams in Texas, city offices in Los Angeles, 226 hospitals ..." as part of FDR's 1935 attempt to reduce unemployment
+	- Generally did not manage projects, just provided wages
+- "WPA funds paid the salaries of laboratory workers in much the same way thtat the National Youth Administration had provided funds for student assistants. Most WPA-sponsored science involved large statistical studies of social or economic problems." (p. 199)
+- "The office [Central Statistical Office] suggested possible studies, reviewed proposals from universities and state agencies, and granted funds taht would pay for workers to conduct surveys, collect information, tabulate data, and analyze the results." (p. 199)
+- Roosevelt Recession in 1937 causes WPA to add more jobs
+	- Assigned Malcolm Morrow to organize a large group of human computers
+
+Skipped starting from p. 201 and picking back up on p. 220
+
+### Chapter 14: Tools of the Trade: Machinery 1937
+- "Most of the computing machinery acquired by the Mathematical Tables Project during its first years of operation was scavenged from terminated WPA offices and otehr governemnt agencies." (p. 220)
+- "A new mechanical calculator cost $400, almost as much as the $560 annual salary paid to a WPA worker." (p. 220)
+- "The computing office at Bell Telephone Laboratories probably had the greatest access to trained engineers and inventors." (p. 221)
+- "He [Stibitz] was one of those rare scientists who treated the computers as individuals." (p. 221)
+	- Talks about this in his early research
+- Isograph and slide rule invented, but they're too cumbersome to be used widely
+- Stibitz invents the cmoplex calculator, "taken as a whole, the three machiens show how inventors adapted new technologies and new devices to the operations of computing laboratories" (p. 224)
+- Iowa State Statistical Laboratory "recieved $35,000 a year to do tabulations and analyses for the WPA and for the U.S. Department of Agriculture" (p. 225)
+	- Had an IBM 601 multipyling punch, which was also used at Columbia University Astronomical Computing Bureau, "but even this machine could assist only with the first and last steps of least squares computation. The remaining work waqs done with adding machines by a staff of seven." (p. 225)
+	- Atanasoff made modifications to the IBM tabulator, similar to the isograph of Bell labs
+- Atanasoff builds a similar machine to the Model K (Stibitz electronic adder) 
+	- Gets money from Iowa State College and "the Rockefeller Foundation in New York City ... one of the larger financers of scientific research" (p. 227)
+	- Ends up getting money from the Research Corporation of $5300, "a substantial grant for the time, even though ti was about one quarter of the money American Telephone and Telegraph had septn on the complex calculator." (p. 227)
+	- Never finished his electronic computer, but it generaly did what it tried to do, solving small systems of equations
+	- Worked on his machine for 2 years before going to the Naval Ordnance Laboratory
+- "The last computing machine of 1937 moves one step further from the offices of human computers, though it remained tied to the kinds of calculations that were being done by human computers." (p. 229)
+	- Was done by Howard Aiken
+	- Harvard (with Aiken) "had access to funds from the National Youth Administration to pay the salaries of human computers" (p. 229)
+	- Aiken built a machine with "instructions [that] were almost a program, as we now use the term" (p. 230)
+	- His machine was similar to Babbage's Analytical Engine
+	- Aiken presents his ideas to an engineer at the Monroe Calculator Company, who saw its application to accounting, but rejected the project
+	- "Aiken then turned tot he computing staff of the Harvard Observatory. The observatory computing room operated much as it had in 1880 under Edward Pickering. A staff of computiers and assistant astronomers, many of them women, measured photographs, interpreted data, and reduced the values recorded by the telescopes and sensors." (p. 230)
+	- Aiken visits Columbia University Astronomical Computing Bureau, meets Wallace Eckert, and studies the Orange Book
+	- IBM (with Watson) approves of the idea, and they would "build the machine in an IBM factory ... Harvard would provide the computer center and oeprate the device." (p. 231)
+		- IBM calls it the Automatic Sequence Controlled Calculator, and Harvard calls it Mark I
+		- Ends up costing $200,000
+- Bell Telephone Laboratories' complex calculator, Atanasoff's machine, and Mark I are all still set in the past (Stibitz, Atanasoff, Aiken)
+
+### Chapter 15: Professional Ambition
+- Lawmakers were not happy about WPA, they took 3 weeks to let people in after start of fair in NYC about humanity's present accomplishments and future
+- When WPA shown, quotes like "Work is the Right of every American" shown and no WPA calculation tables shown
+- 1939, leaders of National Research Council had lost hope in A. A. Bennett
+- "As gratifying as such results [at Aberdeen] may have been, tehy did not suggest that the new computing machine would replace the human computers or eliminate all work for A. A. Bennett" (p. 234)
+	- Differential analyzer at aberdeen did not save that much labor according to firsthand account
+- National Research Council asks Bennett to resign so they can replace him with Raymond Claire Archibald (also a prof of Math at Brown)
+- Now in charge, Archibald takes steps to focus work of MTAC and work with England's Mathematical Tables Committee
+	- Splits work into 21 different classes, with one extra class "Z" (p. 237) that would put together the bibliography itself
+		- "Each division on the list .. [would have] four or five members" (p. 237)
+		- NRC opposes this idea, but lets him proceed
+	- Makes appointments to divisions from industry and government, also adds an academic from Japan
+- 1939, Archibald has made his appointments and raised $15000 from the Rockefeller Foundation
+	- NRC felt that since MTAC was a subcommittee, NRC had ultimate control over its funds
+		- Archibald defies this and sends copy of first bibilography to council with invoice
+	- "Fundamentally, Eisenhart [leader of NRC] was sympathetic to Archibald ... $15,000 publication funds were rarely given for mathematical research." (p. 238)
+- "The fight between Archibald and the National Research Council ... captures the state of computing in 1939 and suggests that the discipline had reached a critical point in its history. With only a few exceptions, computing laboratories ahd always been under the control of scientists whose interests lay elsewhere. The directors of computing groups had been [primarily employed in other fields that pure mathematics]." (p. 239)
+- "With the emergence of Archibald and MTAC, Comrie and the Scientific Computing Service, Davis and his books on mathematical functions, Blanch and Lowan and the Mathematical Tables Project, human computers began to claim that they had an independent discipline, that they commanded a body of knowledge" (p. 239)
+- Sep. 1939, Germany invades Poland, Britain and France get involved
+- National Defense Research Committee formed, which had seen army take control of the Natinoal Research Council in 1917 and wanted a balance between the army/navy and the civilians
+	- Had 4 different military needs divisions and one for inventors rights, no division for mathematics and computation since it didn't seem to be a high priority, "even though military services moved to strengthen their computing laboratories." (p. 240)
+	- Army invests $800,000 into Aberdeen Ballistics Research Laboratory, some going to expand computing laboratory
+		- Navy had retired director of Nautical Almanac Office and needed a new leader "who understood computing machinery" (p. 240)
+- Naval Almanac had shared "the burden of ephemeris computations with the almanac offices of England, France, Germany, Russia, and Spain." (p. 240)
+	- Began in 1912, but was suspended for both world wars (resumed in 1920s)
+- Navy wanted Wallace Eckert of Thomas J. Watson Astronomical Computing Brueau (Columbia University computing facility)
+	- Navy begged him to do it, accepted in 1940 (this is for astronomical tables for airplanes)
+- Eckert arrives in Washington to "teach the computers the methods that he had developed in New York ... [but] he would not have the same kind of resources Columbia University received from Thomas Watson and IBM" (p. 242)
+	- Borrowed from L.J. Comrie to use a Burroughs accounting machine
+- June 1940, Mathematical Tables Project aws the "largest scientific computing organization in the United States, dwarfing the combined staff of the Aberdeen Proving Ground, the American Nautical Almanac, the Thomas J. Watson Asttronomical Computing Bureau, and the mathematics division of Bell Telephone Laboratories. The WPA computing floor was home to three hundred computers." (p. 242)
+	- "Lowan felt a constant pressure to show that his project held at least a few first-rate minds and was nota  collection of three hundred unemployable mediocrities." (p. 243)
+	- "One armed operator using the new Frieden calculator was able to produce 40% more work than an unimpaired worker using a calculator which is not fully automatic" - Lowan (p. 243)
+- Lowan realizes that military may need computational work and legally can give him contracts for MTP
+	- 1941, army gives Lowan contract, "they [the army] were willing to make the [MTP] a generous offer it it could do the work quickly." (p. 244)
+- "The WPA, in response to the shift of government funds toward military preparation, was shrinking week by week." (p. 244)
+	- In first 6 months of 1941, liquidated half of its assets and laid off 4000 workers
+	- Lowan tries to save MTP by getting it certified as essential for national defense
+		- Asks Morse of MIT to endorse it to secretary of war: Arnold Lowan to Philip Morse, December 17, 1940, MORSE
+- Lowan had been having secret letters with Morse for about a year, technically nothing illegal
+	- Also did this with otehr scientists, including von Neumann, all for support on his project
+- "[Lowan] had struggled [at the WPA] with contradictory demands: the need to rpoduce accurate mathematical tables and the requirement to employ the greatest number of workers" (p. 245)
+- Lowan at one point sent a late night telegram to Washintgton, "begging WPA officials to approve his computing plans" because at one point he only had 10 days work for his manual computing group (p. 246)
+- Archibald tried to get MTAC committee to recommend certification for WPA, but barely even got responses to this suggestion
+- Morse wanted Lowan to go to defense research centers to solicit for contracts, but Lowan didn't want to and let Morse be the public face
+- Morse urges National Defense Research Committee to bring MTP under control of Division D (included exterior ballistics, bombing trajectories, aiming of guns) 
+- 1942, MTP gets defense certification, but did little to help strengthen it
+- "The deserving poor were increasingly scarce as unemployment fell and WPA workers abandoned the relief projects for better-paying jobs in war industries." (p. 247)
+- Lowan and Blanch may not get security clearance (required for these new defense projects) because of their "potentially disloyal" (p. 248) opinions, especially regarding being a commie
+- 1941, Soviet Union was aiming for world domination that frigthened the West
+- Amtorg (cover for soviet spies) requested to see Columbia Astronomical Computing Brueau, after Numerov had disappeared for doing so
+- MTP never got a visit from any known Soviet agency
+- MTP is asked to preapre tables for LORAN (Long-Range navigation), project for MIT and Bell Telephone Laboratires
+	- Bureau of Navigation (including Nautical Almanac Office) "did not have enough staff to prepare the office, and there was no other large computing office [other than MTP] within the service." (p. 249)
+	- Lowan puts Milton Abramowitz in charge of the prjoect
+- LORAN required new computers constantly since MIT had underestimated the work required
+	- Lowan requests hours upped to 40 from 32 to meet these deadlines, but New York City WPA office denied it
+	- Planning committee helps with some of the work, "spending their evenings on the computing floor, finishing the calculations, going over results" (p. 250)
+- Morse brings up issue of security to Lowan
+	- Due to the perception of security issues by Navy, decides to go elsewhere for further calculations (below was just a sample navigation table, not full tables)
+- LORAN ended up spending 5000 hours of computational work
+- Two weeks after LORAN decision, FDR terminates WPA
+	- MTP would get to operate until March 1943 to finish up work
+- According to Ida Rhodes, L.J. Comrie sends a telegraph to President Roosevelt that MTP cannot be shut down
+	- Roosevelt sends a government inspector to NY and recommends that National Defense Research Council takes over group
+	- Unclear if this is true
+- Navy wanted WTP back because they realized there were no other computing offices capable of doing LORAN comptuations
+- Lt. Schlachter, with resources of MTP, organizes a new computing office: New York Hydrographic Project
+	- "The navy made no attempt to investigate the loyalty of these workers. Instead, it tried to isolate the computers and prevent them from having access to the final tables. ... When computers resigned, the navy tended to replace them with the wives of servicement, reasoning that women with a personal stake in the success of the military would be unlikely to betray the office." (p. 253)
+- National Defense Research Committee in 1942, reorganized and created Applied Mathematics Panel under Warren Weaver
+	- Offspring of division doing fire control
+	- Weaver turns to Grace Hopper of Vassar College to do work for AMP, rather than MTP
+		- Hopper chooses to work with Aiken of Harvard instead
+		- Weaver has to turn back to MTP
+- Lowan had two proposals to AMP, first with 6 mathematicians and 50 computers, another with 6 mathematicians and 25 computers
+	- Weaver contracts MTP under second proposal
+- "Even though Arnold Lowan would have to sacrifice seventy-five computers, he was pleased with the offer from the [AMP]" (p. 255)
+	- With this, sheds the entire manual computing division and "all computers would use adding machines or mechanical calculators" (p. 255)
+
+## Chapter 16: The Midtown New York Gilde Bomb Club
+- Winter of 1943 started the great growth of scientific computing laboratories
+	- "It seemed as if all the combatants discovered a need for organized computing that winter" (p. 256)
+		- Included Germany, Japan, England
+	- US had at least 20 computing organizations in Washington, Hampton Roads, Aberdeen, Philadelphia, Providence, Princeton, Pasadena, Ames, Lynn, Los Alamos, Dahlgren, Chicago, Oak Ridge, and New York City.
+		- Most were small, 5-10 computers
+		- Few were as big as NY Hydrographic Project (49 from MTP) or Naval Weapons Laboratory (Dahlgren VA with 39)
+- MTAC committee begins to put together litature of calculation, Archibald back at post in 1942
+	- Remembering the 61.73 issue from Bennett (see invoice earlier) National Research Council is not psyched and asks Weaver of Rockefeller Foundation to fund it
+- Archibald not waiting (for official approval?) publishes Mathematical Tables and Other Aids to Computation in Feb. 1943
+	- "Mathematical Tables and Other Aids to Computation provided American computers with the first systematic reports on computing activities." (p. 257)
+	- Helped comptuers reach out to other organizations they didn't really know existed
+		- Brainerd of University of Pennsylvania, which had been started recently to Feb. 1943, sends letter to Lyman Briggs of National Bureau of Standards asking for advice and asking for sophisticated computers; Gertrude Blanch had trained computers there in 1941 to be more advanced
+		- Briggs replies to Brainerd that MTP had been moved from old WPA office to office rented by AMP and that MTP people able to take on projects
+- Lowan believed that "computer machinery was an aid that 'facilitated and abridged' the efforts of his staff. Brainerd ... organized his office around a large computing machine, a differential analyzer, and used human labor to compensate for the machine's shortcomings." (p. 258)
+	- "Brainerd's computers were machine operators" (p. 258)
+	- 1937, UPenn had gotten a differential analyzer with Aberdeen Proving Ground
+- 1942, proving ground officials tell UPenn that they need differential analyzer to do ballistics research and would reimburse them at $3.00 an hour
+	- "The university did not have enough college-educated computers for its analyzer staff ... they [wanted] twenty to thirty women with bachelor's degrees in mathematics or physics ... but after scouring the school's alumna lists, they had identified only eight" (p. 259)
+	- Decides to train more computers, gets money from Engineernig, Science, and Management War Training Program and gets course materials from Gilbert Blis who "taught ballistics classses to civilians at University of Chicago" (p. 259)
+- Adele Goldstine goes into Brainerd's office and becomes new lead instructor, fires 3 older professors; she is college educated in math and her husband had studied with Gilbert Bliss
+- UPenn has a "Women Only" marking on the door of the computing office
+	- Ballistcis Research Laboratory's Aberdeen computing staff had both men and women, so it wasn't because of them
+	- "In all likelihood, it was motivated by common stereotypes concerning office work and gender: that men were difficult to recruit for office work in wartime, that single-gender office staffs were easier to manage then mixed-gender staffs, that women were somehow specially suited for calculating" (p. 260)
+- Winter 1943, John Brainerd decides the staff needs to be 2-3 times larger
+	- Goes back to UPenn alumna lists, sends mail to American Mathematics Society and American Association of University Women
+	- Goldstine visits certain colleges
+- "With human computers hard to find and an old analyzer struggling to meet the precicion requirements, the computing staff was looking to build an improved computing machine, an electroncic version of the differential analyzer ... ENIAC would have no mechanical parts that oculd slip or jam or in some other way induce inaccuracy" (p. 261)
+- L.J. Comrie had an embarrassing departure from the British Nautical Almanac Office, but his company Scientific Computing Service still critical to British calculations
+	- Spring of 1943, von Neumann comes to England to see British scientific efforts
+		- von Neumann was at this time working for Ballistics Research Laboratory at Aberdeen
+	- Involved John Todd, professor at King's College
+- "the American effort was far more complicated than John Todd's organization" (p. 264)
+	- U.S. version was far more bureaucratic, with a "committee of mathematciains" (p. 264)
+- "For much of the war, the office of the Applied Mathematics Panel [(AMP)] was in the Empire State Building, but all committee meetings were held at Rockefeller Center" (p. 363)
+	- "The largest contractor was Columbia University ... home to four different reserach centers: an applied mathematics group, a statistical group, a bmobing studies group, and the Thomas J. Watson Astronomical Computing Bureau. It alone accounted for half of the Applied Mathematics Panel Budget." (p. 266)
+	- Also gave money to "Mathematical Tables Project, New York University, Brown University, Princeton University, and Institute for Advanced Study. There were no contracts with the University of Chicago, none with Iowa State College, and none with University of Michcigan. There was no contract for the Harvard mathematics department, until one of its faculty began raising a public fuss ... and Warren Weaver ... [offered] the Massachusetts school a token assignment." (p. 266)
+- "Some of the requests [to the AMP] came directly from the military, but most originated at the war research laboratories." (p. 266)
+- AMP worked with National Defense Research Committee to identify potential projects
+	- After accepting a request, assign the work to a contractor
+	- "Each of the contractors maintained some kind of computing staff" (p. 267)
+- "The Mathematical Tables Project served as the reserve computing unit for the Applied Mathematics Panel and was the second-largest item on the panel's budget." (p. 267)
+- AMP would review computing requests and forward ones they approved to Arnoled Lowan. "For some large problem, they would occasionally solicit competitive bids." (p. 267)
+- "Through the middle of the war, the Applied Mathematics Panel found that the expense of human computers was close to the cost of a machine calculation." (p. 268)
+	- Between MTP and Bell, Lowan estimated that a project would cost $1,000, while Fry of Bell estimated it would cost $3,000
+	- MTP didn't go through with it
+	- Bell Telephone Laboratories made a machine that also cost $3,000 "three times the bid from the Mathematical Tables Project." (p. 268)
+- "Computing machines were more efficient than human computers only when they could operate continously, when they could do repeated calculations without special preparations." (p. 268)
+- "Some accounts of the [AMP] describe the work ... with late-night mathematical analyses and forced marches at computing machines. In fact, much of the work ... was done under strikingly ordinary conditions." (p. 268)
+	- "For most of the war, the comptuers were  able to work a standard shift, beginning their days at eight in the morning, ending at five ... except at a few moments of crisis" (p. 268)
+	- "The computers spent about 30 percent of their time finishing tables that they had begun under the WPA" (p. 268-269)
+- "In the late fall of 1943, the [MTP] experienced a brief season of double-shift work, a period when the computers began calculating at 8:00 AM, finished at midnight" (p. 269)
+	- AMP got the assignment as a bombing mission to clear defenses in preparation for D-Day, assigned work to Jerzy Neyman
