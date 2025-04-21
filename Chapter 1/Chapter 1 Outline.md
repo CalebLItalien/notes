@@ -1,4 +1,4 @@
-# Chapter 1: The Genesis of Programming: How a World War and Cheap Labor Built the Programming Industry - and How Capital Seized Control
+# Chapter 1, The Genesis of Programming: How a World War and Cheap Labor Built the Programming Industry - and How Capital Seized Control
 
 ## World War Two and the Human Computers: How the Invisible Mass of Human Computers Powered the War Machine
 
