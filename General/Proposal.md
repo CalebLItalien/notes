@@ -1,33 +1,14 @@
 # The History of Software: Its Development, Developers, and Conditions
 ## Proposal
-The goal of this work is to outline the political economy of software, which has taken place over the last century. I hope to make clear the historical context 
-of the current labor market for software developers, as well as the distribution of the computational means of production. I plan to focus on the software
-development industry in the United States between the 1940s and the present day. I may also explore the era before the 1940s, which laid the foundation of human
-computers (people who's profession was in doing calculations) and automated calculators. I will pull from existing histories written about software as an industry
-and its technical development, data compiled by various organizations on programming, personal accounts of capitalists and programmers, journals, and some other 
-less relevant pieces. 
+The goal of this work is to outline the political economy of software, which has taken place over the last century. I hope to make clear the historical context of the current labor market for software developers, as well as the distribution of the computational means of production. I plan to focus on the software development industry in the United States between the 1940s and the present day. I may also explore the era before the 1940s, which laid the foundation of human computers (people who's profession was in doing calculations) and automated calculators. I will pull from existing histories written about software as an industry and its technical development, data compiled by various organizations on programming, personal accounts of capitalists and programmers, journals, and some other less relevant pieces. 
 
-The people who have written about software have primarily written it as a set of discrete steps, essentially following the Great
-man theory from a technical perspective. According to Ensmenger, authors of computing history "included many computer professionals-turned-amateur 
-historians who ... were concerned primarily with the key moments of invention and qeustions of priority. ... The emphasis has always been on great men and
-important 'firsts'." I hope to show that software is best situated within its historical context, since almost all software, except these 'firsts' is written on 
-top of an with other software. Furthermore, I hope to dispel the idea that software is best understood as the history of great men, and instead center the mass of
-rank-and-file software engineers who built the unseen foundations of the modern software world. 
+The people who have written about software have primarily written it as a set of discrete steps, essentially following the Great man theory from a technical perspective. According to Ensmenger, authors of computing history "included many computer professionals-turned-amateur historians who ... were concerned primarily with the key moments of invention and qeustions of priority. ... The emphasis has always been on great men and important 'firsts'." I hope to show that software is best situated within its historical context, since almost all software, except these 'firsts' is written on  top of an with other software. Furthermore, I hope to dispel the idea that software is best understood as the history of great men, and instead center the mass of rank-and-file software engineers who built the unseen foundations of the modern software world. 
 
-I also hope to explain to today's software engineers the way in which their conditions are defined and the way their work defines them. When a software engineer
-writes a programming language, they are developing capital that will be used by other engineers as raw material. When a software engineer designs a video game
-mobile app, they are producing a commodity to be consumed by an end user. These differences are critical in understanding the roles that software engineers play
-in producing their conditions. These raw materials that software engineers create play a role in reducing the value of their own labor by increasing
-their productivity. I want to explain how the drop in value of their labor reduces their marketability and reduces the size of the workforce, with special reference
-to the ongoing conversation on AI in the workplace. 
+I also hope to explain to today's software engineers the way in which their conditions are defined and the way their work defines them. When a software engineer writes a programming language, they are developing capital that will be used by other engineers as raw material. When a software engineer designs a video game mobile app, they are producing a commodity to be consumed by an end user. These differences are critical in understanding the roles that software engineers play in producing their conditions. These raw materials that software engineers create play a role in reducing the value of their own labor by increasing their productivity. I want to explain how the drop in value of their labor reduces their marketability and reduces the size of the workforce, with special reference to the ongoing conversation on AI in the workplace. 
 
-Finally, I hope to illuminate the conditions that gave rise to the massive concentration of the computational means of production, specifically the rise of the
-cloud and data centers. These means of production provide the basis for nearly all industries today, and yet they reside in the hands of a very small number of 
-capitalists. This concentration also gives the capitalists the ability to bust software engineering unions, engage in unfair labor practices, and work engineers
-to their breaking point.
+Finally, I hope to illuminate the conditions that gave rise to the massive concentration of the computational means of production, specifically the rise of the cloud and data centers. These means of production provide the basis for nearly all industries today, and yet they reside in the hands of a very small number of  capitalists. This concentration also gives the capitalists the ability to bust software engineering unions, engage in unfair labor practices, and work engineers to their breaking point.
 
-My target audience for this piece is the software engineers themselves. I want every software engineer that reads this piece to be able to understand it and their
-conditions better for having read it. I also hope that those who read it will have a better understanding of the critical role software plays in modern economy.
+My target audience for this piece is the software engineers themselves. I want every software engineer that reads this piece to be able to understand it and their conditions better for having read it. I also hope that those who read it will have a better understanding of the critical role software plays in modern economy.
 
 ## Sources
 ### Journals
@@ -89,6 +70,14 @@ conditions better for having read it. I also hope that those who read it will ha
 - Software Engineering: Concepts and Techniques: Proc. NATO Conferences, P.Naur
 - The Limits of Software: People, Projects, and Perspectives; R.N. Britchers
 - The Bond Book, Annette Thau
+- Paul N. Edwards – The Closed World: Computers and the Politics of Discourse in Cold War America
+- The Californian Ideology, Barbook + Cameron
+- The Capitalist Machine: Computerization, Workers’ Power, and the Decline in Labor’s Share within U.S. Industries, Kristal
+- Cyber-proletariat: global labour in the digital vortex, Smith
+- Digital labor and imperialism, Fuchs
+- The Virtual Incubator: Managing Human Capital in the Software Industry
+- The Handbook of Political Economy of Communications
+- Free labor, Terranova
 
 ### Articles and documents
 - Agile Manifesto

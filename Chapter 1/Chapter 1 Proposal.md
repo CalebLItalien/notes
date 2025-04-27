@@ -23,13 +23,6 @@ by the federal government, was used on these high-risk projects. My goal is to e
 sources include a number of different secondary sources, personal accounts, early documentation on the ACM (an early computer-focused organization), and I hope through this research to find
 primary sources which can illuminate the questions I have. 
 
-## Flow of Conversation
-MTAC and the first professional computing organization, human computers before and during WW2
-	Talk about ACM and IEEE
-ENIAC, Mark I, and the transition off of human computers to automated computing
-	Recruitment of human computers to be first programmers
-Postwar, professionalization and commercialization
-
 ## Sources
 ### Secondary
 - The Technical and Social History of Software Engineering, Capers Jones
@@ -83,6 +76,20 @@ Postwar, professionalization and commercialization
 - From ENIAC to UNIVAC, Stern
 - Owens, “Mathematicians at War” (1996).; Mathematicians at War: Warren Weaver and the Applied Mathematics Panel, 1942–1945
 - Ceruzzi, “When Computers Were Human”
+- Halberstam, The Fifties
+- Wang, “Science, Security and the Cold War.”
+- "Women Have Always Worked", Alice Kessler-Harris
+- "Women and Unions", Dorothy Sue Cobble
+- "Rocking the Boat: Union Women's Voices, 1915-1975" O'Farrell and Kombluh
+- "Rosie the Riveter Revisited" Gluck
+- A Mouthful of Rivets, Nancy Baker Wise and Christy Wise
+- Fleeting Opportunities: Women Shipyard Workers in Portland ... , Kesselman
+- Max Schactman and His Left: A Socialist's Odyssey Through the 'American Century', Drucker
+- State Capitalism and World Revolution, James; Wright Mills, The New Men of Power
+- Labor's War at Home: The CIO in World War II, Lichtenstein
+- American Labor: From Defense to Reconversion; Seidman
+- As Unions Mature; Lester
+- Industrliasm and Industrial Man; Kerr, Harbison, etc.
 
 ### Primary
 - Oral history interview with Herman H. Goldstine, Nancy Stern
@@ -202,3 +209,108 @@ per, “The Automatic Sequence Controlled Calculator—I” (1946).
 - Abraham Hillman, interview with the author, February 1996.
 - 3150 days of labor for some kind of project (firing tables for WPA?) page 269 of when computers were human: Warren Weaver to Lyman Briggs, March 31, 1944, AMP.
 - “Excerpt from Diary of J. Neyman, Washington, DC and Eglin Field, Florida,” December 3–19, 1942, Jerzy Neyman Correspondence, AMP.
+- Possibly about the computers working double time, possibly about pre-d-day operations in dropping bombs: Craven and Gate, The Army Air Forces in World War II, p. 169.
+	- Also could possibly be it: Reid, Neyman from Life, p. 190.
+- Owens, “Mathematicians at War: Warren Weaver and the Applied Mathematics Panel, 1942–1945” (1989).
+- Neyman's provisions for computers at University of California: Reid, Neyman from Life, p. 183.
+	- Neyman's students also didn't like to do computational work: Jerzy Neyman to Warren Weaver, August 6, 1942, Jerzy Neyman Files, AMP.
+- MTP gets d-day bombing calculations work: Executive Committee Minutes, November 29, 1943, AMP.
+	- Takes three weeks worth of labor: Diary of Warren Weaver, December 17, 1943, AMP.
+- Stibitz working on electronic computers: Andrews, E. C., “Telephone Switching and the Early Bell Laboratories Computers” (1982); Williams, A History of Computing Technology, pp. 225–27; Cesareo, “The Relay Interpolator.”
+- Stern, From ENIAC to UNIVAC
+- Addresses ENIAC in context of human computers: Fritz, "The Women of ENIAC"; Bergin, "Fifty Years of Army Computing"
+- Arthur Burks, interview conducted by William Aspray, June 20, 1987, OH 136, CBI.
+- Eckstein, “J. Presper Eckert.”
+- Cohen, I. B., Howard Aiken (1999), pp. 115, 119; Campbell, “Mark II, an Improved Mark I.”
+- Blanch brought in on Stibitz' report on computing machines: Executive Committee Minutes, March 6, 1944, AMP.
+	- Mina Rees to Oswald Veblen, June 9, 1945, Applied Mathematics Panel Correspondence, AMP.
+- Metropolis and Nelson, “Early Computing at Los Alamos”; see also Gleick, Genius, pp. 175–84.
+- Atomize and make clear the division between different mathematical functions of labor in human computing: Feynman, “Los Alamos from Below.”
+- Cohen, Portrait of a Computer Pioneer, p. 164.
+- Computers start being referred to as 'girls' in 1944: Stibitz, “Lecture” (1946), p. 15; Comrie, “Careers for Girls” (1944).
+- Polio victimes and segregated african american computers at MTP and Langley research center, respectively: Ida Rhodes to Uta Merzbach, November 4, 1969, NMAH; Abraham Hillman, interview with the author, February, 1996; Golemba, Women in Aeronautical Research, p. 41.
+- 1944 letter to Weaver says to prepare for end of National Defense Research Committee, since seniors of American science felt last months of war would not require research: Stewart, I., Organizing Scientific Research for War, p. 299.
+	- Also see: Zachary, Endless Frontier, p. 218.
+- Computing machines don't just have labor-saving assistance, but theoretical consequences of significance according to Weaver: Warren Weaver to J. G. Brainerd of the University of Pennsylvania, December 19, 1944, General Correspondence 7/1/44 to 21/31/44, AMP.
+- MTP computers have to work quicl to complete the work of bombing Japanese buildings (bombs vs incindieries) before bombing campaign of 1945: Notes of Thornton Fry, October 18, 19, 1944, AMP.
+- Fry wants to eliminate human computers to better utilize existing machines: Minutes of Executive Committee, June 2, 1945, AMP.
+- Ranking of computers was very low (P-5 and lower, as opposed to mathematicians, P-6 and up): Lyman Briggs to General Huie, April 13, 1942, MTP WPA.
+- Beauclair, “Alwin Walther, IPM, and the Development of Calkulator/Computer Technology in Germany, 1930–1945”
+	- Süss, “The Mathematical Research Institute Oberwolfach through Critical Times.”
+	- The National Socialist View of History
+	- Todd, “Oberwolfach—1945” (1983).
+- John Todd, interview with the author, January 2002.
+- MTP had handled classified documents without having clearances: Abraham Hillman, interview with the author.
+	- Relevant: Mina Rees to Arnold Lowan, June 21, 1945, Correspondence with Mathematical Tables Project, AMP.
+- Conference on computational aids: R. C. Archibald to Churchill Eisenhart, June 23, 1945, General Correspondence, 1940–46, NRC-MTAC; Archibald, “Conference on Advanced Computation Techniques” (1946).
+- Shannon, “Mathematical Theory of the Differential Analyzer.”
+- Information on announcement of ENIAC: S. Charp to Adele Goldstine, May 14, 1945, Course on Mathematical Ballistics, PENNSYLVANIA.
+- Grier, “ENIAC, the Verb ‘to Program’ and the Emergence of Digital Computers.”
+- Herman Goldstine, interview with the author, July 2002.
+- Significance of ENIAC: Stern, From ENIAC to UNIVAC; Williams, A History of Computing Technology, pp. 266–83; Ceruzzi, A History of Modern Computing, pp. 20–27.
+- Human computers shut out of the Moore School Lectures: Campbell-Kelly and Williams, The Moore School Lectures, pp. xv–xvi.
+	- May also be relevant: Travis, “The History of Computing Devices.”
+- Owens, “Mathematicians at War,” and Owens, “The Counterproductive Management of Science in the Second World War.”
+- In final meeting of AMP, no credit given to the human computers: Minutes of Executive Committee, April 25, 1946, AMP.
+- MTP to continue getting funding even though AMP gone, and would likely become the new staff of the Navy's electronic computing: Mina Rees to Oswald Veblen, June 9, 1945, Future of Science Folder, AMP.
+	- Notes on the work they'd be doing: National Bureau of Standards, “Activities in Applied Mathematics, 1946–1947,” pp. 12–13; compare National Bureau of Standards, Projects and Publications of the National Applied Mathematics Laboratories, 1947–1949, Particle Interaction (June 30, 1948), Reactor Turbine Design (December 31, 1947, p. 16), Radiation (March 31, 1949, p. 63).
+	- Lyman Briggs helping MTP get funds afer the war: Irvin Stewart to Warren Weaver, April 18, 1945, Correspondence File, MTP AMP.
+- First volumes from the MTP in 1940 found in the American Mathematical Monthly
+- Goals of Curtiss' reorganization of MTP into a part of the National Bureau of Standards: National Bureau of Standards, The National Applied Mathematics Laboratories— A Prospectus, p. 7; see also Aspray and Gunderloy, “Early Computing and Numerical Analysis at the National Bureau of Standards.”
+- Everett Yowell, interview with the author, December 1998.
+- MTP doesn't go on strike when WPA does: Lyman Briggs to Arnold Lowan, July 17, 1939, BRIGGS.
+	- See also: Samuel Finkelstein to R. C. Archibald, April 9, 1948, and attached memos (n.d.), NRC-MTAC.
+	- Miller and Gillette, Washington Seen, p. 52.
+- von Neumann says that the human computers will go obselete and says that he defers to Curtiss' judgement on whether to move the human computers: John von Neumann to John Curtiss, May 13, 1948, MORSE.
+- Curtiss starts offering jobs to only some of the planning commitee and human computers: Arnold Lowan to Philip Morse, May 20, 1948, MORSE.
+	- Arnold Lowan to Philip Morse, July 1, 1948, MORSE.
+- MTP workers don't go on strike even when it looks like they are urged to after Curtiss' plan: Samuel Finkelstein to Philip Morse, June 22, 1948, MORSE.
+- Work on linear programming, a labor-time saver:
+	- Stigler, G., “The Cost of Subsistence” (1945). 
+	- Dantzig, “Reminiscences about the Origins of Linear Programming” (1982); Dantzig, “Origins of the Simplex Method” (1990). Dorfman, “The Discovery of Linear Programming.”
+	- von Neumann comparing time for human computers to do work vs. ENIAC: George Dantzig to John von Neuman, April 28, 1948, NEUMANN. Thetimings for the ENIAC do not conform to the values given in Goldstine and Goldstine, “The Electronic Numerical Integrator and Computer (ENIAC).” That paper gives values which are about twice as large. Using these values, the problem would have taken slightly more than 18 hours.
+- Gurer, “Women’s Contributions to Early Computing” (1996); Fritz, “The Women of ENIAC” (1996).
+- Aspray and Williams, “Arming American Scientists.”
+- Blanch preparing talks for ACM: See Report No. 7 of the Association for Computing Machinery, May 30, 1949, BERKELEY.
+- Federal Bureau of Investigation file on Gertrude Blanch, BLANCH FBI.
+- Research Board for National Security fails and National Bureau of Standards acts in interim for postwar research: Pursell, “A Preface to Governmental Support of Research.”
+- Institue for Numerical Analsyis: 
+	- Curtiss, Interview, p. 20, SMITHSONIAN.
+	- Curtiss, “The National Applied Mathematics Laboratory” (1947).
+	- Curtiss, Problems for the Numerical Analysis of the Future (1951), p. xi.
+	- Hestenes and Todd, NBS-INA—The Institute for Numerical Analysis, appendix F.; p. 19, 7, 8, 11, 29, 5
+	- Tables for Rocket and Comet Orbits (AMS 20), Washington, DC, National Bureau of Standards, 1953.
+	- Huskey, “SWAC”; see also Rutland, Why Computers Are Computers, pp. 24–25.
+	- National Bureau of Standards, Projects and Publications of the National Applied Mathematics Laboratories, September 1948.
+	- Everett Yowell, interview with the author, December 30, 1998.; Seidel skipped over for Yowell
+	- Edward Condon to Robert Sproul, May 7, 1951, UCLA ADMIN.
+	- Their construction of a computer: Huskey, “SWAC.”
+	- HUAC now requires loyalty pledges for employees: Memo from R. L. Randell, Personnel Officer, December 5, 1949, NBS DIRECTOR.
+- IBM's Card-Programmed Calculator: Randell, The Origins of Digital Computers, p. 193.
+- July 17 Petition, Harrison-Bundy File, folder 76, MANHATTAN.
+- Cahn placed on administrative leave: Memo to Raymond Allen, University Provost, January 1952, UCLA ADMIN.
+- Memo to Director, FBI, August 30, 1955, BLANCH FBI.; Security Case of Gertrude Kaimowitz, aka Gertrude Blanch, aka Gertrude Blanch Cassidy, last dated August 30, 1955, p. 14, BLANCH FBI.
+- The Daily Worker, a magazine, need to see archives, also the "Democratic Labor Party"
+- “Weeks Sees Ousting of ‘Holdovers’ Here,” Washington Evening Star.
+- Wang, “Science, Security and the Cold War.”
+- “Weeks Ends Silence in Forecasting Swing of Ax on Deadwood,” Washington Evening Star.
+- Astin, Oral History, p. 11.
+- Institute for Numerical analysis killed: Cochrane, Measures for Progress (1966), pp. 484–86, 497.
+- ElectroData News Release, March 24, 1954, ELECTRODATA.
+- ElectroData company realizes it needs more programmers than mathematicians: ElectroData Staff Minutes, March 3, 1954, box 24, ELECTRODATA.
+- Gertrude Blanch, interview with Michael Stern, approximately 1989, STERN.
+- Grier, “The Rise and Fall of the Committee on Mathematical Tables and Other Aids to Computation” (2001).
+- “Clara Froelich,” The Reporter.
+- Gertrude Blanch, interview with Michael Stern, approximately 1989, STERN.
+- Decide not to reinvestigate Blanch: SAC Cincinnati to Director, FBI, August 30, 1955, BLANCH FBI.; Director, FBI, to SAC Cincinnati, September 20, 1955, BLANCH FBI.
+- Morse's beliefs on when computers would be available to typical scientist and the labor necessary for programming
+	- “Report on Mathematical Tables,” 1952, Mathematical Tables Committee File, MORSE.
+	- Morse, In at the Beginning, p. 282.
+- Blanch's list of 'tablemakers' for Morse's conference: Blanch to Morse, January 4, 1954, MORSE.
+- Philip Morse, Manuscript Report on Conference on Mathematical Tables, September 15–16, 1954, MORSE.
+- Fletcher et al., An Index of Mathematical Tables, pp. 863–64.; National Bureau of Standards, Projects and Publications of the National Applied Mathematics Laboratories, July–December 1947, Project 47D2-4, p. 9.
+	- Abramowitz and Stegun, Handbook of Mathematical Functions, p. vi; “Dr. Abramowitz, Standards Unit Mathematician,” Washington Evening Star; Wrench, “Handbook of Mathematical Functions with Formulas, Graphs and Mathematical Tables.”
+- On System 360 Pugh, Building IBM, p. 275.; Ceruzzi, A History of Modern Computing, p. 145.
+- Gertrude Blanch, interview by Henry Thatcher in San Diego, March 17, 1989, STERN.; Eisenman, History of Mathematical Statistics Research, p. 6; Sterling, “Blond Fashion Designer”; “Biography for Gertrude Blanch, Federal Woman’s Award,” LBJ.
+- Public Papers of the Presidents of the United States, NARA, Papers of Lyndon Johnson, vol. 1, 1963, p. 330.
+- Newsweek, the Oregonian

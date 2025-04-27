@@ -229,4 +229,176 @@ Skipped starting from p. 201 and picking back up on p. 220
 	- "For most of the war, the comptuers were  able to work a standard shift, beginning their days at eight in the morning, ending at five ... except at a few moments of crisis" (p. 268)
 	- "The computers spent about 30 percent of their time finishing tables that they had begun under the WPA" (p. 268-269)
 - "In the late fall of 1943, the [MTP] experienced a brief season of double-shift work, a period when the computers began calculating at 8:00 AM, finished at midnight" (p. 269)
-	- AMP got the assignment as a bombing mission to clear defenses in preparation for D-Day, assigned work to Jerzy Neyman
+	- AMP approved the assignment as a bombing mission to clear defenses in preparation for D-Day, assigned work to Jerzy Neyman
+		- Neyman was a statistician from University of California, a bad choice for AMP because he disliked working with teh military and had trouble taking calculation work seriously, among other issues
+	- D-day invasion was codenamed "Operation Overlord"
+- Neyman first tries for a punched card facility to do his bomb dropping calculations (for D-day) at "University of Calfiornia business office, the laboratory of chemits Linus Pauling at the California Institute of Technology, and the Thomas J. Watson Astronomical Computing Bureau in New York" (p. 270)
+	- First office was unable but second were
+	- Weaver recommends Neyman go to Watson Astronomical Computing Breau since IBM pays for the equipment there
+- Ultimately, Weaver decides to give task (aforementioned on d-day) to Mathematical Tables Project with Gertrude Blanch preparing the computing plan
+	- Blanch/Neyman initially undershoots the amount of work required, and "before long, the entire staff was spending two full shifts working on nothing but Neyman's calculations." (p. 271)
+	- "As with many of the war computations produced by the [MTP], Blanch and Lowan sent their results to the [AMP] and had only the vaguest idea how they would be used." (p. 271)
+- After closer examination, "planners of Operation Overloard concluded there were no mines blocking the invasion ... the computations were filed away and never used." (p. 271)
+- Navy's Bureau of Ordnance approaches AMP to ask for a report on available computing maachines (preferably digital) that they could buy
+	- "[Weaver] ... believed that noen of the [AMP] scientists could produce such a report without bias" (p. 271)
+	- Despite potential for bias Weaver asks Stibitz to prepare review
+	- To ensure balance Weaver has "Bell Telephone Laboraotires research work with a committee that included a naval officer anda  MIT professor [who was familiar with electronic computers and IBM equipment]" (p. 272)
+- Stibitz's committee focuses only on large machines
+	- e.g. Howard Aiken's machine started in 1938, nearly complete at IBM
+	- Also considered differential analyzers at MIT, Aberdeen, and University of Pennsylvania
+	- Ignored ENIAC as it was far from complete
+	- Report didn't really affect the navy's computing plans, they were more focused on Aiken's machine at Harvard
+- Blanch asked to help on Stibitz report. to "'determine which iterative [computational] methods lend themselves best to the instrumentation of a modern computing device." (p. 272)
+	- "Given the limitations of standard punched card equipment, it was not entirely clear that any of the computing machinery would be as flexible as a staff of human computers." (p. 272)
+- "In its first year as a contractor to the Applied Mathematics Panel, the Mathematical Tables Project had drawn few signs of respect from the panel's senior mathematicians ... an organization inferior to Columbia and Princeton." (p. 273)
+	- Only ever sent Mina Rees (Warren Weaver's administrative assistant) to even see their second-largest contractor
+	- This view changes when Cornelius Lanczos joins planning committee (MTP I'm pretty sure)
+- Lanczos never did traditional planning over oversaw computing staff, instead helped teach techniques to members of the planning commmiteee (e.g. Gertrude Blanch, Ida Rhodes)
+	- These lectures grew attention as they were advertised through AMP and brought some respect to Lowan's Group
+		- "They encouraged prospective computers to visit the organization and copy its operating procedures." (p. 273)
+		- Among visiters were scientists preparing for Manhattan Project
+- "Computing laboratories were familiar institutions to the atomic scientists, as most of the major university physics departments had some kind of computing staff." (p. 273)
+	- Their staff was far too small for building a bomb though, e.g. University of Chicago ("one of the larger contractors to the Manhatton Project" (p. 274)) had just a few students and a faculty wife
+	- Los Alamos leaders wanted to create a similar organization to AMP, Thomas J. Watson Bureau, and MTP
+- "[Richard] Feynman used standard index cards instead index cards to hold the results of the computations ... 'turned outt hat the speed at which we were able to do it was a hell of a lot faster than the other way, where every single person did all the steps. We got speed with this system that was the predicted speed for the IBM machine.'" (p. 275)
+	- The T-5 (Los Alamos computers of Feynman) competed against the Los Alamos IBM facility
+		- "For two days, the human computers kept pace with the machines. 'But on the third day', reported an observer, 'the punched-card machine operation began to move decisivley ahead'" (p. 275)
+
+## Chapter 17: The Victor's Share
+- "Sometime in 1944, computers became 'girls.' The University of Pennsylvania hired 'girl computers'; Warren Weaver started calling Applied Mathematics Panel computers 'girls' [etc.]" (p. 276)
+	- Stibitz starts using 'girl-years' of effort as a unit of measurement, one member of AMP defines a 'kilogirl', probably referring to 1000 hours of computing labor
+- "Even at this date, computing was not the sole domain of women. It was really the job of the dispossessed, the opportunity granted to those who lacked the financial or societal standing to pursue a scientific career. Women probably constituted the largest number of computers, but they were joined by African Americans, Jews, the Irisn, the handicapped, and the merely poor." (p. 276)
+- Letter received on 1944 letting Weaver know the Natioanl Defense Research Committee would die at the end of the war, signaling the war would no longer require research
+- AMP starts to consider "post-war possibility of the important new computing techniques" (p. 277)
+	- Weaver observes taht Aiken's Harvard machine is running three shifts a day, seven days a week, and thus wants 'a central machine under a broad agency in Washington' (p. 277)
+		- Machine should be available to civilian and military researchers, as it would "'take care of a variety of problems.'" (p. 277)
+- New York Hydrographic Office completing LORAN tables and "had lost almost half of his staff, yet he had reduced the computing time from six weeks per tables to four." (p. 277)
+- AMP starts to reject more computing problems
+	- Turns away General Electric who wanted 30 cmoputers for antiaircraft systems of B-29 bombers, suggest GE look to computational facilities of an insurance company
+	- All in all accepted few problems that winter (probably 1944)
+- A bunch of balloons land in U.S., probably from Japan, and as work of AMP gets more routine Weaver turns his attention to it
+- Weaver looks into aforementioned problem in part because he's worried mathematics is not going to be a signfiicant part of plans for postwar science
+	- Roosevelt had created Research Board for National Security with only one mathematician on committee
+	- Much debate between Courant, von Neumann, and Weaver on what mathematical research should look like postwar, see p. 279 for more details
+- Roosevelt dies and Truman's objectives on government sponsorship of science are unclear
+	- Accept a request from NYU calculations and assign to MTP
+- Oswald Veblen suggests MTP could be useful to Research Board for National Security
+	- "Thornton Fry, still acting as chair, showed no entusiasm for the idea, noting that there were many new computing machines, and 'presumably after the war [they will] not be fully used. ... the only employment that he foresaw for Arnold Lawn, Gertrude Blanch, and the others was the preparation of 'out of hour uses for these machines,' computations on the second or third shift" (p. 280)
+	- "The panel did not give the computers the same professional status that they accorded mathematicians." (p. 280)
+- "The Allied generals did not consider computational laboratories to be of much importance until the British army mistakenly seized the German mathematician Alwin Walther." (p. 281)
+	- They thought he was a rocket engineer by the name Helmuth Walter, until he "showed [a picture of] him walking arm in arm with another man, who he claimed was the mathematician Richard Courant of the Applied Mathematics Panel." (p. 281)
+		- British military uses Olga Taussky, consultant working with Ministry of Aircraft Produciton, to confirm story
+- As the allies move through Germany at the end of the war, they realized "German mathematical research was not centralized until the very end of the war." (p. 283)
+	- Debate amongst Lowan and Fry over whetehr a representative of MTP or AMP should go to see Germany, Fry says that there are not "any strong indications that they were mcuh ahead of us ... they seem to be far behind us." (p. 284)
+	- Denial from Fry cast dobut on Lowan's MTP, but at the same time receive a "special request from calculation ... from Richard Courant at New York University ... marked as top secret. Even though no one in the group had received a security clearance" (p. 284)
+		- Calculations given to Weaver at AMP, who would abstract the work so the MTP people couldn't tell waht it was for
+		- Was not the frist time MTP had handled classified documents
+		- Was possibly Manhattan Prjoect
+		- "Even if the calcuation did not come from the Manhattan Projec,t it was still important evidence that the group, cone judged impossible to secure, had gained some measure of trust and prestige among the wartime scientists" (p. 284)
+- Japan surrenders in August, 1945, and "by the end of September, the bulk of the projects were liquidated, including the statistical studies at Columbia, the remaining work of Jerzy Neyman, the explosion analyses at New York University, and the bombing mathematics at the Institute for Advanced Study" (p. 285)
+	- "The rest of the contractors, save the mathematical Tables Project, had scheduled their final dates of operation." (p. 285)
+- AMP arranges for the navy to continue funding MTP "as a special-purpose computing laboratory ... [which] would reunite the two divisions, joining the New York Hydrographic Office computers, who were already under navy authority, to those who had been directed by the panel." (p. 285)
+	- Navy agrees to provide Lowan with IBM punched card tabulators
+	- This improved the conditions of MTP as they had better/more (?) space and a separate space for punched card equipment
+- At the same time as above, Lowan (with Abramowitz) goes to a conference sponsored by the Subcommittee on the Bibliography of Mathematical Tables and Other Aids to Computation
+	- "Was the evidence of R. C. Archibald's faith and efforts" (p. 285)
+	- "This meeting was the only time that the war computers gathered as equals, the one moment when mathematicians and human computers, punched card clerks and differential analyzer operators, electrical and mechanical engineers came together and talked about their experiences with equations and numbers. A second meeting, held just three months later, gave clear signs that machine designers were starting to outpace human computers. A press conference, held at the University of Pennsylvana ... the ENIAC." (p. 287)
+- "Like the meeting that had been organized by MTAC, the ENIAC announcement pointed toward the future while not letting go of the past." (p. 287)
+	- The ENIAC was mroe useful than a differential analyzer and faster than other machines (because it was electronic) but wstill "following the computing plan, they [workers] arranged the cables that they took a number from a punched card, passed it to an adder, [etc.]" (p. 287)
+- Creators of ENIAC, upon completing it, immediately realized they wanted something entirely programmable, withot the need to use bulky cables
+	- "new, programmable machines were at least two years away" (p. 288)
+- The new interest in computation leads UPenn to put on the Moore school ectures, which "dealt with circuit design and the preparation of problems for machine computation." (p. 288)
+	- "The students were not human computers but 'a select group of seasoned professional engineers and mathematicians.' The discussions made little reference to human computing groups, and few in attendance had any experience with organized calculation. No one from the Mathematical Tables Project was invited to attend. L. J. Comrie was not chosen as a representative of Great Britain. There were no computers from any Nautial Almanac Office, the Manhattan Project, or any of the projects of the Applied Mathematics Panel." (p. 288)
+	- "Had any human computers been at the Moore School Lectures, they would have heard a somewhat fanciful history of calculating devices that ignored the contributions of workers like themselves." (p. 288)
+	- "Historians of the conference claim that the talk was meant to 'entertain and inspire,' but a close examination of the text suggests that it was an attempt to build a distinguished lineage for the electronic computing machine, a pedigree that ignored the influence of commerece and the hard labor of human computers. To many at the talk, the human computer was already starting to fade from memory." (p. 288)
+	- "Most of the wartime computing groups had been shut down, reduced to a small remnant, or replaced by punched card equipment." (p. 288)
+	- AMP ceases operations, "no one felt it necessary to express gratitude toward the workers who had undertaken the calculations." (p. 289)
+		- Arnold Lowan and Gertrude Blanch not invited to this meeting
+- Even though AMP gone, MTP would continue being funded by the navy and Army Air Corps "for two more years" and would likely become "the support staff for the new computing machines." (p. 289)
+- "The only worrisome development for the project was a change of leadership at the National Bureau of Standards. The bureau had been the fixed point of the Mathematical Tables Project through the fluctuations of the Depression and the war." (p. 289)
+	- Lyman Briggs had been the director and served as the executive manager under the AMP
+	- Briggs retired in 1945 and succeeded by Edward Condon
+	- Condon doesn't see as much value in MTP or for Lowan to report directly to the bureau director, so he puts project under his assistant John Curtiss
+		- Curtiss decides to bring in MTP into (originally: National Applied Mathematics Laboratories, then Computation Laboratory) to "research the methods of aplied matehmatics, ... consider problems of applied statistics, ... develop new computing machines" and the last group would be MTP
+		- "The Computation Laboratory would be larger and better equipped than the old [MTP]." (p. 290); more equipment
+- Summer 1947, Curtiss decides MTP must move to D.C., as its now an integral prt of the National Bureau of Standards [NBS]
+	- Lowan fights this hard and the computers are upset about it
+		- Tries to get the organization under other orgs (Atomic Energy Comission, Institute for Advanced Study) but the former org is building its own computing group and the latter electronic computers
+		- Presumably other orgs he tried to bring it under than just the two above
+ 		- Lowan also writes to New York City congressional delegation, congressman write to Natinoal Bureau of Standards but Curtiss does not fold
+		- Lowan turns to "the union that represented his human computers, the United Public Workers of America. The United Public Workers had organized the Mathematical Tables Project computers in 1938 as a part of a broader effort to represent the clerical workers of the WPA. The union was on the more radical side of 1930s labor organizations. It was a member of the CIO, the Congress of Industrial Organizations, and kept its offices in the same building that housed the American Communist Party." (p. 292)
+		- United Public Workers went on strike in 1939, but MTP did not go on strike
+- Part of the reason the MTP workers didn't want to go to D.C. was because of Jim Crow conditions and anti-semitic discrimination
+- Lowan requests von Neumann write a letter to Curtiss, and he does but he tells Curtiss that the human computers will go obselete and defers to his judgement on wheter to move the computers
+	- Curtiss offers solution to Lowan of either moving to D.C. or staying in New York with a 15 person office and exactly one year of funds
+- MTP workers are urged to go on strike, but they won't rally behind Lowan and their is insufficient support
+	- "By midsummer, they had abandoned their efforts on behalf of the [MTP]" (p. 295)
+- Lowan decides to saty in New York
+- "[von Neumann] asked whether the computers would test a new technique called 'linear programming.' Von Neumann was not really interested in the results of the test computation, just as he was not especially interested in the future of the [MTP]. He requested the calculation because he wanted to use the human comptuers as surrogates for computing machines, as a means of projecting the oepration of a programmable electronic computer." (p. 295)
+	- He didn't invent linear programming, Neyman and Dantzig did
+		- Linear programming looked to make spare parts cheaper and more efficient to store, which currently took 'the labors of hundreds of highly trained staff officers' (p. 295, Dantzig)
+	- Aberdeen Proving Ground with ENIAC had refused the request form von Neumann to do the calculations
+	- "Von Neumann would take the letters from Dantzig, turn them over, and calculate the amount of time that the ENIAC would spend on the same work. Dantzig's last letter reported that twenty-five computers had completed the work in twenty-one days. In half a page of pencil scratching and little diagrams, von Neumann concluded that the ENIAC could do the same work in about nine hours." (p. 296)
+- "The computers began to disperse almost as soon as Dantzig's calculations came to an end. Some went to Washington; a few, including Ida Rhodes, started to learn abuot the new electronic computers; most started looking for jobs in New York City." (p. 296)
+- MTP closes in September, 1949
+
+## Chapter 18: I Alone Am Left to Tell Thee
+- "Most of the American cmoputing groups of the Second World War ended in such a manner [as described above]. As the country returned to the peacetime economy, the government reduced the budget for scientific and engineering research. In response, the leaders of the research laboratories, with or without an argument, cut their staffs, including their human computers." (p. 298)
+- As the world war transitioned to the cold war, "the United States began to rebuild and expand its research laboratories." (p. 298)
+	- "The navy supported science through its Office of Naval Reserach. The air force created a private reserach company in California, the RAND Corporation." (p. 298)
+	- "A dozen universities created laboratories in order to provide research services to the military ... the only facility to develop a large computing staff was the one devoted to the mathematical methods of computation, the Institute for Numerical Analysis at the University of California, Los Angeles (UCLA)." (p. 298)
+		- Was a division of the Natioanl Bureau of Standards which faced criticism which "was not concerned with the quality of work done at the Institute for Numerical Analysis or the need for standard methods of computation or even the proper allocation of the institute's budget. It touched on the right of the institute's staff to claim the title of scientist and to hold stewardship ovder the country's scientific legacy." (p. 298)
+- 1948, Blanch is not taking part in Lowan's confrontation with Curtiss
+	- Curtiss asked her "to be the assistant director for computation at the Institute for Numerical Analysis." (p. 299)
+- Research Board for National Security failed in its first year without replacement
+	- National Bureau of Standards acting in interim coordinator of postwar research
+- "The war had brought many women into science, but only a few of them were finding a place in the time of peace." (p. 300) see this page for more details
+- Blanch goes to the institue which now has John Todd and Olga Taussky
+- "By the end of the summer, Blanch had assembled a computing office that resembled the wartime Mathematical Tables Project." (p. 301)
+- "Most members of the institute staff believed that the new human computers would be temporary workers, quickly replaced by a new 'automatic computing machine,' as electronic computers were then called." (p. 302)
+	- "Initially, the National Bureau of Standards intended to purchase a computing machine for the Institute for Numerical Analysis." (p. 302)
+	- Would buy one from Raytheon Corporation of Massachussetts, Electronic Research Associates of Minnesota, (and/or ?) UNIVAC Corporation of Pennsylvania
+		- "Curtiss was not satisfied with any of the proposals and convinced the senior staff at the bureau that the Institute for Numerical Analysis should build its own machine." (p. 303)
+- Construction of computational devices Curtiss wanted would take at least 2-3 years
+	- In the interim, got a Card-Programmed Calculator ("halfway between the IBM punched card tabulators and the new electronic computers ... created by engineers at an IBM customer, Northrop Aircraft Company") (p. 303)
+- Originally, new calculating machine overseen by a computer Roselyn Seidel, but National Bureau of Standards wanted someone with punched card expertise
+	- Curtiss convinces Evert Yowell of Columbia to do it, sconsidered a 'significant appointment' and Seidel is not happy about being passed over
+- Card-Programmed Calculator wasn't a full electronic computer but did make significant advancements in capabilities, wasn't capable of large numbers of calculatiosn
+- Blanch discovers the ill conditioning problem for simultaneous equations
+- "The staff never developed the kind of computing skill that was found at the Mathematical Tables Project, as few comptuers stayed at the institute for more than a year. The rapid departure of human computers never seemed to bother the mathematicians, as they were looking ahed to teh new computing machine." (p. 304)
+- The institute develops the SWAC (Standards Western Automatic Computer)
+- "Their location [in California] may have spared them the need to arrive at work at 8:00 in the morning or to wear formal business clothing, but it did not insulate them from the political turmoil of the late 1940s." (p. 304)
+	- Absolutely braindead political take of the situation: "The Republicans had always been a minority party and had held power only by pulling support away from the Democrats. During the period of Republican dominance in the nineteenth century, conservative leaders had often found it useful to discredit Democratic opponents by calling them secessionists, politicians sympathetic to the old Confederate states. Seventy-five years later, a new generation of Republican leaders accused the Democrats of being communists, agents of the Bolshevik revolution, traitors. The fact that some of the Democrats had actually been communists, or at least had been sympathetic to the Soviet Union, bolstered such charges. By the fall of 1949, Republicans equated communism with treason and pointed to the Soviet atomic bomb program for their proof." (p. 305)
+	- Center of this chaos was the House of Representatives Un-American Activities Committee (HUAC)
+		- Looks into Condon (director of Bureau of Standards)
+			- He had believed that "military control of scientific information was impeding work on the bomb" (p. 305)
+- Senior Administrator of Institute for Numercial Analysis, Albert Cahn, brought before subcommittee of HUAC and qeustioned, as he had signed the Manhatton Project petition
+	- In the 14 months of deliberation over his case, several other spies found, Mao comes to power, North Korea invades South Korea, and McCarthy claims to have evidence of spies in teh State Department
+	- He's placed on administrative leave
+- Blanch had already failed two security investagions, in 1942 and in 1946
+	- Put on administrative leave in 1951 and successfully appeals in 1952
+	- "She had quitely guided the poverty-striken computers of the Mathematical Tables Project." (p. 307)
+- New Secretary of Commerce Sinclaire Weeks, Curtiss identified as a homosexual and "must choose between a public dismissal and a quite resignation." (p. 309)
+	- Decides against appealing
+- Weeks then comes after director of National Bureau of Standards, Allen Astin
+	- This was in part over an additive AD-X2, which was deemed scientifically not useful but its manufacturer wanted it used (in batteries) and lobbied Congress
+	- Weeks asks for Astin's resignation, but due to bad publicity asks him to return
+		- Once back, has National Academy of Sciences do review of the bureau, validating AD-X2 conclusion but "concluded that the bureau faced a fundamental conflict between its military research and its civilian duties" and recommends military work be done by military only
+			- This kills the Institute for Numerical Analysis in 1954
+- Blanch had left the Institute in 1953, the computing services had been transitioning to the IBM 604 with engineers doing it themselves and "six of the first twelve customers for the [IBM Model] 701 were companies that had once requested computations from the Institute for Numerical Analysis." (p. 311)
+	- Blanch goes to work for ElectroData, founded by Hoover building electronic instruments during WW2
+		- Company had scientists but none of them came from the Moore School Lectures of 1946
+		- Company realizes it needs more programmers than mathematicains, so replaces Mathematics Department with Technical Services Group
+		- By this time, "Most of the old computing groups had been closed, and their leaders had retired. The dean of human computers, L.J. Comrie, had died." (p. 311)
+			- "H.T. Davis was preparing a final volume of matehmatical tables, but his numbers had been calculated by his National Youth Administration computers and did not represent contemporary work. Clara Froelich had left Bell Telephone Laboratories" (p. 311)
+- Blanch takes a job at Writght Field for the new Aerospace Research Laboratories
+	- FBI wants to reinvestigate but Washington FBI denies it and closes her file
+- Blanch is asked by Morse to help him with a computing handbook, since he believes it'll be at least a decade before electronic computers were available to typical scienists and that 'programmint took weeks, not minutes' (p. 313)
+	- They make it, called Handbook of Mathematical Functsions with Formulas, Graphs, and mathmeatical Tables or 'the handbook' or 'AMS 55' OR 'Abramowitz and Stegun'
+		- Took a decade to a complete
+		- "In 1954, computers were handcrafted devices that could be found only in government laboratories and large business. By 1964, the year of the book's publication, computers were standard products that could be purchased from a dozen different vendors." (p. 314)
+		- "The System 360 would anchor IBM's product line for twenty-five years and would move computing from the offices and laboraotires that had never had access to the machines of 1954." (p. 314)
+		- "Though it no longer represented the central issues in computation, the Hnadbook of Mathematical Functions ultimately validated the vision of Phil Morse. Neither the IBM 360 nor any of the other machines announced in 1964 was able to ahndle all fo the small and midsized scientific computations that were found at universities and government research labs. Scientists, still having to do some calculations by hand, turned to the contents of the handbook for assistance." (p. 315)
+		- "Within a few years, it became the most widely circulated scientific text ever published." (p. 315)
+- Blanch leaves government service in 1967
+	- "Blanch had even learned a little about electronic computers, though she was never interested in programming. Programming could be left to assistants." (p. 316)
