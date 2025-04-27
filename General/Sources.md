@@ -1,28 +1,74 @@
-# Secondary Sources
-## Found in book
-The Art of Software Testing
-Structured Design
-Program Qualtiy and Programmer Productivity
-The Cathedral and the Bazaar
-Programming Productivity: Issues for the Eighties
-India's Software Industry - Heeks
-The System Builders - Baum
-Jungle Rules - Imlay
-A Piece of the Computer Pie - Voth
-La Saga Cap Gemini - Gaston-Breton
+# General Sources
+## Secondary
+### Histories
 
-## Found in Citations
-Software Engineering Economics - Barry Boehm
-Peopleware - Demarco
-Estimating Software Costs - Jones
-Applied Software Measurement - Jones
-Software Engineering Best Practices - Jones
-The Structure of Scientific Revolutions - Kuhn
-Object Lessons - Love
-Software Project Management - A Unifed Approach - Royce
-The Big Short: Inside the Doomsday Machine - Lewis
+- The Technical and Social History of Software Engineering, Capers Jones
+- Fulfilling the Computer's Promise, Richard Forman
+- The International Computer Software Industry, David Mowery
+- A History of the Software Industry: From Airline Reservations to Sonic the Hedgehog, Martin Campbell-Kelly
+- The Codebreakers - The Story of Secret Writing, David Kahn
+- A Short History of Software, Graeme Phillipson
+- A Brief History of Software Patents (and Why They're Valid), Adam Mossoff
+- History of Software Measurement, Horst Zuse
+- The U.S. Software Industry: an analysis and interpretative history
+- From Art Form to Engineering Discipline? A History of US Military Software Development Standards, 1974-1998, Christopher McDonald
+- Sociotechnical Settlement and Mediation in a System of Technical Societies: A Relational History of the IEEE Computer Society and ACM, circa 1967-1977, Brent Jesiek
+- The origins of Objective-C at PPI/Stepstone and its evolution at NeXT; Brad Cox, Steve Naroff, Hansen Hsu
+- For Fun and Profit: A History of the Free and Open Source Software Revolution, Christopher Tozzi
+- A Historical Account of the Value of Free and Open Source Software: From Software Commune to Commercial Commons; Magnus Bergquist, Jan Ljungberg, and Bertil Rolandsson
+- Pragmatism, not ideology: Historical perspectives on IBM’s adoption of open-source software; Martin Campbell-Kelly, Daniel Swartz
+- A Brief History of Free, Open Source Software and Its Communities, Jesus Gonzalez-Barahona
 
-## Found in Reading Academic Literature
+### Data
+- International Trade in Computer Software, Harold Roth
+- Industrial Organisation and Innovation: An International Study of the Software Industry, Salvatore Torrisi
+- The Psychology of Computer Programming, Gerald Weinberg
+
+## Primary
+### Personal Accounts
+- Steve Jobs: The Exclusive Biography, Walter Isaacson
+- Secrets of Software Success, Cyriac Roeding
+- CEO, Sandra Kurtzig
+- Fulfilling the Computer's Promise, Richard Forman
+- Almost Perfect, Pete Peterson
+- The Autodesk File, John Walker
+- Software People, Douglas Carlston
+- The Difference Between God and Larry Ellison, Mike Wilson
+- Inside the Software Power, Gerd Meissner
+- The MacNeal-Schwendler Corporation: The First Twenty Years, Richard MacNeal
+
+### Articles
+- Agile Manifesto
+- The Software Factory: A Historical Interpretation, Michael Cusumano
+- Software as Capital: An Economic Perspective on Software Engineering
+
+### Journals
+- Dr. Dobb's Journal
+- Cutter IT Journal
+- Tecnology and Culture
+- Datamation
+- Computer World
+- Byte
+- Software News (later Software Magazine) 
+- Business Software Review
+- On the Business Side 
+- Business Week and Fortune
+
+## Unsorted
+- The Mythical Man-Month, Fred Brooks
+- Managing the Software Process, Watts Humphrey
+- Decline and Fall of the American Programmer, Edward Yourdon
+- Rise and Resurrection of the American Programmer, Edward Yourdon
+- Turing and Von Neumann: From Logic to the Computer, Liesbeth De Mol
+- What Makes the history of Software Hard, Michael Mahoney
+- Program Qualtiy and Programmer Productivity
+- Programming Productivity: Issues for the Eighties
+- A Piece of the Computer Pie
+- La Saga Cap Gemini
+- Estimating Software Costs - Jones
+- Applied Software Measurement - Jones
+- Software Engineering Best Practices - Jones
+- Object Lessons
 - Lily Kay, “Who Wrote the Book of Life?”; Hunter Crowther-Heyck, “George A. Miller, Language, and the Computer Metaphor of Mind”; Donna Haraway, “Cyborg Manifesto”; Cornelius Borck, “Toys Are Us.”; Richard Dawkins, “Genetics”
 	- Talks about the ways in which "concepts from computer science and information theory disseminated throughout the biological sciences in the late twentieth century" - Rethinking Computers in Society
 - David Edgerton, "Innovation, Technology, or History"
@@ -76,29 +122,26 @@ The Big Short: Inside the Doomsday Machine - Lewis
 	- To digitize something is to change its nature
 - Peter Galison, “Computer Simulations and the Trading Zone”; Paul Edwards, A VastMachine; Diane Bailey, Paul Leonardi, and Stephen Barley,“The Lure of the Virtual.”
 	- Talks about digitizataion of various fields
-
-# Primary Sources
-## Other
-- Calendar of State Papers, Domestic, Car. II, 1675–76, p. 173, June 22, 1675, British Library, MS Birch 4393 f 104 r, v; Public Record Office, Kew, State Papers Domestic Entry Book 44, p. 10.
-	- Describes computing office of English navy
-
-## Journals
-Tecnology and Culture
-Datamation
-Computer World
-Byte
-Software News (later Software Magazine) 
-Business Software Review
-On the Business Side 
-Business Week and Fortune
-
-
-# Need access
-https://ieeexplore.ieee.org/abstract/document/4407444
-https://ieeexplore.ieee.org/abstract/document/8474489
-https://dl.acm.org/doi/abs/10.1145/1134285.1134288
-https://link.springer.com/article/10.1007/s10838-008-9068-7
-
-# Starting off points
-https://en.wikipedia.org/wiki/History_of_software
-https://www.youtube.com/watch?v=jXf04bhcjbg
+- https://ieeexplore.ieee.org/abstract/document/4407444
+- https://ieeexplore.ieee.org/abstract/document/8474489
+- https://dl.acm.org/doi/abs/10.1145/1134285.1134288
+- https://link.springer.com/article/10.1007/s10838-008-9068-7
+- Software Engineering Economics - Barry Boehm
+- Peopleware - Demarco
+- Estimating Software Costs - Jones
+- Applied Software Measurement - Jones
+- Software Engineering Best Practices - Jones
+- The Structure of Scientific Revolutions - Kuhn
+- Object Lessons - Love
+- Software Project Management - A Unifed Approach - Royce
+- The Big Short: Inside the Doomsday Machine - Lewis
+- The Art of Software Testing
+- Structured Design
+- Program Qualtiy and Programmer Productivity
+- The Cathedral and the Bazaar
+- Programming Productivity: Issues for the Eighties
+- India's Software Industry - Heeks
+- The System Builders - Baum
+- Jungle Rules - Imlay
+- A Piece of the Computer Pie - Voth
+- La Saga Cap Gemini - Gaston-Breton
